@@ -1,0 +1,9 @@
+blastn -query phage_all.fa -db db_B \
+  -out A_vs_B.tsv \
+  -evalue 1e-6 \
+  -task blastn \
+  -num_threads 8 \
+  -outfmt "6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qlen slen qcovhsp"
+
+
+makeblastdb -in blocks.fa -dbtype nucl -out db_A -parse_seqids
