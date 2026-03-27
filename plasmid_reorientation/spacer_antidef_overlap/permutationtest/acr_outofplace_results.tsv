@@ -1,0 +1,2 @@
+lower_bound_pctile	upper_bound_pctile	n_total_systems	n_outofplace_bg	pct_outofplace_bg	n_systems_hit	n_hit_outofplace	pct_hit_outofplace	null_mean	null_sd	z_score	p_permutation	fisher_OR	fisher_p	fisher_p_lower	fisher_OR_lower
+0.027125420828728625	0.8044887109467522	282	16	0.05673758865248227	236	4	0.01694915254237288	0.05679322033898305	0.014918786529766154	-2.670731142718127	0.9996	0.04978993328696129	0.9999999954213941	0.9431818181818182	0

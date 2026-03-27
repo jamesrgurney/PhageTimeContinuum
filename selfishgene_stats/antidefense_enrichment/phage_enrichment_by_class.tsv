@@ -1,0 +1,14 @@
+type	n_total	n_hit	n_not_hit	hit_rate	dataset
+Anti_CRISPR	176	173	3	0.9829545454545454	Phage
+Anti_Dnd	20	7	13	0.35	Phage
+Anti_RM	69	6	63	0.08695652173913043	Phage
+Anti_CBASS	78	1	77	0.01282051282051282	Phage
+Anti_DarTG	2	0	2	0	Phage
+Anti_Gabija	1	0	1	0	Phage
+Anti_Hachiman	1	0	1	0	Phage
+Anti_Pycsar	2	0	2	0	Phage
+Anti_Retron	4	0	4	0	Phage
+Anti_TA	11	0	11	0	Phage
+Anti_Thoeris	71	0	71	0	Phage
+NADP	150	0	150	0	Phage
+Other	2	0	2	0	Phage

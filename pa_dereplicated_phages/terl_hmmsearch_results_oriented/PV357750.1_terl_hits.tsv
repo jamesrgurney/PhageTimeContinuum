@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+PV357750.1_1         -          Terminase_3          PF04466.20   4.2e-37  120.2   0.8   4.2e-37  120.2   0.8   1.9   2   0   0   2   2   2   1 # 1 # 1383 # 1 # ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.525
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/../terLanalysis/hmm_profiles_terL/terl_combined.hmm
+# Target file:     /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/defensefinder_results/PV357750.1/PV357750.1_reoriented.prt
+# Option settings: hmmsearch --tblout /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/terl_hmmsearch_results_oriented/PV357750.1_terl_hits.tsv -E 1e-5 --cpu 1 /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/../terLanalysis/hmm_profiles_terL/terl_combined.hmm /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/defensefinder_results/PV357750.1/PV357750.1_reoriented.prt 
+# Current dir:     /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages
+# Date:            Fri Mar 27 15:59:30 2026
+# [ok]

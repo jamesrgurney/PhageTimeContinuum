@@ -1,0 +1,4 @@
+## Remove non-phage genomes
+
+awk -F'\t' '!($2 == "JN225873.1" || $2 == "AE004092.2" || $2 == "CP019649.1" || $2 == "CP029707.1" || $2 == "LR700236.1" || $2 == "MN461279.1")' \
+    input.blast6.tsv > filtered.blast6.tsv

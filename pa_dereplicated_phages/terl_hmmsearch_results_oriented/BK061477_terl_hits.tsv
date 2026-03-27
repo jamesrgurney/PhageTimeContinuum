@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+BK061477_1           -          TerL_ATPase          PF03354.22   1.1e-23   75.7   0.0   5.6e-23   73.4   0.0   2.0   1   1   0   1   1   1   1 # 1 # 1692 # 1 # ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/../terLanalysis/hmm_profiles_terL/terl_combined.hmm
+# Target file:     /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/defensefinder_results/BK061477/BK061477_reoriented.prt
+# Option settings: hmmsearch --tblout /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/terl_hmmsearch_results_oriented/BK061477_terl_hits.tsv -E 1e-5 --cpu 1 /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/../terLanalysis/hmm_profiles_terL/terl_combined.hmm /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/defensefinder_results/BK061477/BK061477_reoriented.prt 
+# Current dir:     /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages
+# Date:            Fri Mar 27 15:59:11 2026
+# [ok]

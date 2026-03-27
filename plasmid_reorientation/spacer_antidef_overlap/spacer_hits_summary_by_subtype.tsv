@@ -1,0 +1,12 @@
+type	subtype	n_spacer_hits	n_unique_spacers	n_unique_phages	n_systems_hit	median_norm_pos
+Anti_CRISPR	acrie1	1812	79	24	25	0.199
+Anti_CRISPR	acrif3	1091	56	89	92	0.278
+Anti_CRISPR	acrif5	411	35	83	85	0.275
+Anti_RM	ardk	407	7	68	72	0.14
+Anti_CRISPR	acrie2	104	5	21	22	0.299
+Anti_CRISPR	acrif1	19	7	4	4	0.264
+Anti_CRISPR	acrie6	18	6	3	3	0.265
+Anti_CRISPR	acrie7	18	6	3	3	0.265
+Anti_CRISPR	acric3	3	3	1	1	0.23
+Anti_CRISPR	acric4	3	3	1	1	0.23
+Anti_RM	ardc	3	1	3	3	0.311
