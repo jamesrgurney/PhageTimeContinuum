@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LC805023_54          -          Terminase_6N         PF03237.22   2.2e-08   25.8   0.0     4e-08   24.9   0.0   1.4   1   1   0   1   1   1   1 # 38187 # 38792 # 1 # ID=1_54;partial=01;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=3-4bp;gc_cont=0.563
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/../terLanalysis/hmm_profiles_terL/terl_combined.hmm
+# Target file:     /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/defensefinder_results/LC805023/LC805023_reoriented.prt
+# Option settings: hmmsearch --tblout /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/terl_hmmsearch_results_oriented/LC805023_terl_hits.tsv -E 1e-5 --cpu 1 /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/../terLanalysis/hmm_profiles_terL/terl_combined.hmm /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/defensefinder_results/LC805023/LC805023_reoriented.prt 
+# Current dir:     /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages
+# Date:            Fri Mar 27 15:59:08 2026
+# [ok]

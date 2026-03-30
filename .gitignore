@@ -1,0 +1,28 @@
+# Large data and intermediate directories
+pa_dereplicated_phages/blast_results/blastdb/
+pa_dereplicated_phages/blast_results/spacer_merged.fna
+pa_dereplicated_phages/data/
+pa_dereplicated_phages/defensefinder_results/
+pa_dereplicated_phages/oriented/
+pa_dereplicated_phages/per_genome/
+plasmid_reorientation/blast_results/blastdb/
+plasmid_reorientation/blast_results/spacer_merged.fna
+plasmid_reorientation/defensefinder_results/GCA*
+plasmid_reorientation/dnaapler_results/
+
+
+# Specific outdated dirs
+pa_dereplicated_phages/spacer_antidef_overlap/outdated_permutationtest_27Mar26/
+
+# Log files and intermediate hmmsearch files
+pa_dereplicated_phages/terl_hmmsearch_results_oriented/*.log
+**/*.log
+*_defense_finder_hmmer.tsv
+*.prt.idx
+defense-finder-tmp/
+*_MMseqs2_output.txt
+tmp_MMseqs2_output/
+
+# macOS metadata
+._*
+.DS_Store

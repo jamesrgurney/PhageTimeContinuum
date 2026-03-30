@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+KY000082_105         -          Terminase_3          PF04466.20   4.9e-23   74.4   2.0   4.9e-23   74.4   2.0   2.0   2   0   0   2   2   2   1 # 64993 # 66180 # 1 # ID=1_105;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.520
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/../terLanalysis/hmm_profiles_terL/terl_combined.hmm
+# Target file:     /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/defensefinder_results/KY000082/KY000082_reoriented.prt
+# Option settings: hmmsearch --tblout /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/terl_hmmsearch_results_oriented/KY000082_terl_hits.tsv -E 1e-5 --cpu 1 /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/../terLanalysis/hmm_profiles_terL/terl_combined.hmm /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages/defensefinder_results/KY000082/KY000082_reoriented.prt 
+# Current dir:     /Volumes/Extreme_SSD/CRISPR_spacer_analyses/r_PAManalysis/pa_dereplicated_phages
+# Date:            Fri Mar 27 15:59:12 2026
+# [ok]
